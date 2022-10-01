@@ -1,0 +1,15 @@
+div {
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    color: chocolate;
+    margin-top: -5px;
+}
+
+body{
+    background-image: url(img/main.jfif);
+    background-color: azure;
+    background-repeat: no-repeat;
+    background-position: 50% 80px;
+}
